@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/clientes"; // troque para URL do backend se for deploy online
+const API_URL = "http://localhost:8080/api/clientes"; // troque para URL do backend se for deploy online
 
 const form = document.getElementById("clienteForm");
 const clientesList = document.getElementById("clientesList");
