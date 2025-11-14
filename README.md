@@ -25,13 +25,13 @@ Este projeto foi desenvolvido como parte do meu portfólio de backend, demonstra
 ## 📦 Funcionalidades Implementadas
 
 ### Gestão de Clientes
-- ✅ Cadastro de clientes com validações
-- ✅ Listagem de todos os clientes
-- ✅ Busca de cliente por ID
-- ✅ Busca de cliente por CPF
-- ✅ Atualização de dados do cliente
-- ✅ Exclusão de cliente
-- ✅ Validação de CPF e email únicos
+- Cadastro de clientes com validações
+- Listagem de todos os clientes
+- Busca de cliente por ID
+- Busca de cliente por CPF
+- Atualização de dados do cliente
+- Exclusão de cliente
+- Validação de CPF e email únicos
 
 ## 🏗️ Arquitetura
 
