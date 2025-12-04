@@ -172,31 +172,6 @@ Durante o desenvolvimento deste projeto, consolidei conhecimentos em:
 - **PostgreSQL:** Modelagem de banco de dados relacional
 - **Cloud Database:** Integração com Supabase
 
-## 🎯 Próximos Passos
-
-Funcionalidades planejadas para as próximas versões:
-
-- [ ] Implementar entidade Conta Bancária
-- [ ] Sistema de transferências entre contas
-- [ ] Consulta de saldo e extrato
-- [ ] Autenticação e autorização (Spring Security)
-- [ ] Documentação da API com Swagger/OpenAPI
-- [ ] Testes unitários e de integração
-- [ ] Tratamento de exceções personalizado
-- [ ] Paginação de resultados
-
 ## 📝 Status do Projeto
 
 🚧 **Em desenvolvimento** - Versão inicial com CRUD de clientes implementado
-
-## 👩‍💻 Autor
-
-Desenvolvido como projeto de aprendizado e portfólio em desenvolvimento backend com Java e Spring Boot.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
-⭐ Se você achou este projeto interessante, considere dar uma estrela no repositório!
